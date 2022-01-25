@@ -1,6 +1,6 @@
 <?php
 $dbname = "skill_development";
 $dbusername = "root";
-$dbpassword = "";
+$dbpassword = "12345";
 $dbsrvname = "127.0.0.1";
 ?>
